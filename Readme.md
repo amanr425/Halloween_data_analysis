@@ -1,4 +1,4 @@
 # Halloween - Data analysis on Tableau
 
-Here I analysed the halloween data of a city using tableau and analysed how will be the rainfall in some area in future years.
+This project involves analyzing Halloween data for a city using Tableau, with a focus on predicting rainfall in specific areas for future years.
 
